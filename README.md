@@ -1,8 +1,8 @@
 <h2 align="center">Hey! Today I created bouncing text in pure HTML and CSS.</h2>
 <div align="center"> 
-<img src="https://img.shields.io/github/languages/top/Medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/github/languages/code-size/Medvedoc/jumping-text?style=for-the-badge">
-<img src="https://img.shields.io/github/languages/count/medvedoc/jumping-text?style=for-the-badge">
 <img src="https://img.shields.io/tokei/lines/github/medvedoc/jumping-text?style=for-the-badge">
 </div>
 <div align="center">
