@@ -1,4 +1,17 @@
 <h2 align="center">Hey! Today I created bouncing text in pure HTML and CSS.</h2>
+<!--<div align="center"> 
+<img src="https://img.shields.io/github/downloads/medvedoc/jumping-text/total?style=for-the-badge">
+<img src="https://img.shields.io/github/license/medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/mevedoc/jumping-text?style=for-the-badge">
+</div>-->
+<div align="center">
+<img src="https://img.shields.io/github/languages/top/Medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/code-size/Medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/tokei/lines/github/medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/github/contributors/medvedoc/jumping-text?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/medvedoc/jumping-text?style=for-the-badge">
+</div>
 <h3 align="center">All animation is based on @keyframes.</h3>
 <div align="center"><a href="https://cdn.buymeacoffee.com/uploads/project_updates/2021/07/efdf87aad26d7363cb9c224f008696ce.gif"><img src="https://cdn.buymeacoffee.com/uploads/project_updates/2021/07/efdf87aad26d7363cb9c224f008696ce.gif" /></a></div>
 <h3 align="center">Demonstration: <a href="https://codepen.io/Medvedoc/full/yLbpePv">codepen</a></h3>
